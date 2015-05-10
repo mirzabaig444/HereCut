@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="HereCut_Cloud_App.UserManagement_Service" CodeBehind="UserManagement_Service.svc.cs" %>
